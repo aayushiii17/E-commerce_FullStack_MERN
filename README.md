@@ -129,11 +129,6 @@ These requirements serve as a foundation for the development of the ecommerce we
 ![Screenshot_2023-08-04_09-50-04](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/2e9348f5-bed7-4ab0-99bf-cb633027dfb1)
 ![Screenshot_2023-08-04_09-50-21](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/7b64d6b6-8e22-4bc8-8c45-d5abaee98797)
 ![Screenshot_2023-08-04_09-50-44](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/dd6a8897-c4ee-47d9-b68f-d39a06cb9625)
-![Screenshot_2023-08-04_09-50-55](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/07b827d9-227b-46a1-be65-899375992bda)
-![Screenshot_2023-08-04_09-51-09](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/9bf1af45-23c8-4643-b59c-7a5cb23eb5ba)
-![Screenshot_2023-08-04_09-51-56](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/9fe77354-a150-4dff-8fb8-9febedbf41df)
-![Screenshot_2023-08-04_09-52-09](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/339177b9-b827-4b88-952d-f610c7f095f1)
-![Screenshot_2023-08-04_09-52-16](https://github.com/DevJariwala5/Full_MERN_Stack_Ecommerce_Project/assets/111644496/aaae7691-b100-4f46-884f-37f87fb9ad43)
 
 
 
